@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="GitTest.Contact" %>
+<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="GitTest.Contact" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
@@ -8,7 +8,7 @@
 
     <section class="contact">
         <header>
-            <h3>Phone:</h3>
+            <h3>Phonev1.0:</h3>
         </header>
         <p>
             <span class="label">Main:</span>
